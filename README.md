@@ -4,6 +4,7 @@
 Automated UI tests for Zepter web application using Selenium WebDriver in Java.
 
 There is no JUnit, TestNG, Maven or any other type of framework used here because the goal is to match with direct requirements from task.
+Not complete project on git because of the large files and libs, adding only 3 test cases from src folder!!!
 
 ## 📁 Project Structure
 
